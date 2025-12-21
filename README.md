@@ -75,7 +75,7 @@ Create a `data` folder if it doesn't exist:
 mkdir -p data
 ```
 
-Create a CSV file at `data/data.csv` with the following headers:
+Create/paste your CSV file at `data/data.csv` with the following headers:
 
 ```csv
 #,Name,NID,Party,Reg. Date,Status,Retry
@@ -85,9 +85,9 @@ Create a CSV file at `data/data.csv` with the following headers:
 
 ```csv
 #,Name,NID,Party,Reg. Date,Status,Retry
-1,Mariyam Ibrahim,A089393,,,
-2,Mohamed Faariz,A260000,,,
-3,Aminath Fazeema,A260002,,,
+1,Ibrahim Ibrahim,A000000,,,
+2,Mohamed Mohamed,A111111,,,
+3,Aminath Aminath,A222222,,,
 ```
 
 **Required columns:**
